@@ -2,3 +2,11 @@ body{
     color: white;
     background-color: black;
 }
+
+section {
+
+    background-color: rgb(163, 157, 157);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+}
