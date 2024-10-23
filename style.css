@@ -16,6 +16,6 @@ section {
 }
 header{
     margin: 20px;
-    font-size:small;
+    font: size 20px;
     color: rgb(178, 228, 230);
 }
