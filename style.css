@@ -8,5 +8,6 @@ section {
     background-color: rgb(163, 157, 157);
     padding-top: 80px;
     padding-bottom: 80px;
-    
+    display:flex;
+    justify-content: center;
 }
