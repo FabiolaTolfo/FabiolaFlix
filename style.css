@@ -6,13 +6,13 @@ body{
 section {
 
     background-color: rgb(163, 157, 157);
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     display:flex;
     justify-content: center;
 }
 .texto-video1{
-    margin: 50px;
+    margin: 5%;
 }
 header{
     margin: 20px;
