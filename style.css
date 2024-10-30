@@ -13,7 +13,6 @@ section {
 }
 .texto-video1{
     margin: 5%;
-    padding-right: 20 px;
 }
 header{
     margin: 20px;
@@ -29,7 +28,7 @@ img{
 .categoria-videos{
 display: flex;
 overflow-x: auto;
-padding-right: 20px;
+padding-right: 10px;
 gap: 20px;
 }
 
