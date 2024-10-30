@@ -12,7 +12,7 @@ section {
     justify-content: center;
 }
 .texto-video1{
-    margin:30%;
+    margin: 50px;
 }
 header{
     margin: 20px;
@@ -23,4 +23,9 @@ header{
 
 img{
     height: 200px;
+}
+
+.categoria-videos{
+display: flex;
+overflow-x: auto;
 }
