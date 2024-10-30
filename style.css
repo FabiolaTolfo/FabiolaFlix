@@ -20,3 +20,7 @@ header{
     color: rgb(178, 228, 230);
     text-align: left;
 }
+
+img{
+    height: 200px;
+}
