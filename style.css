@@ -28,6 +28,9 @@ img{
 .categoria-videos{
 display: flex;
 overflow-x: auto;
-padding-left: 20px;
 padding-right: 20px;
+}
+
+h2{
+    padding-left: 20px;
 }
