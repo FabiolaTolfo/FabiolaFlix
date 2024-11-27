@@ -13,12 +13,12 @@ section {
 }
 
 h1 {
-
     font-size: 30px;
     color: black;
 }
 
 .texto-video1 {
+    font-family: "Gabarito", sans-serif;
     margin-right: 20px;
 }
 
