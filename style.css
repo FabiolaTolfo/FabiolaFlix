@@ -17,6 +17,10 @@ h1 {
     color: black;
 }
 
+p{
+    font-size: 20px;
+}
+
 .texto-video1 {
     font-family: "Gabarito", sans-serif;
     margin-right: 20px;
