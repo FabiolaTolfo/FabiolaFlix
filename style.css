@@ -28,8 +28,6 @@ header {
     color: rgb(3, 156, 161);
     text-align: left;
     font-family: "Modak", sans-serif;
-
-
 }
 
 img {
@@ -46,4 +44,14 @@ img {
 h2 {
     padding-left: 20px;
     color: black;
+}
+
+.categoria-videos img {
+    height: 200px;
+    opacity: 0.5;
+}
+
+.categoria-videos img:hover {
+    border: 5px solid rgba(41, 110, 128, 0.849);
+    opacity: 1.0;
 }
